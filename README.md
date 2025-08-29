@@ -1,8 +1,22 @@
 # English: please use your browser to translate to english
 
-# ET类魔兽世界预制游戏与课程上架，已经录完52集
-WOW052-行为树编辑器-拖动节点.mp4
-WOW051-行为树编辑器复制粘贴改变.mp4    
+# 全新结合AI的ET框架，实现AI自动写逻辑，自动写机器人测试用例，自动编译，自动运行，全闭环操作
+1. 全新的机器人测试框架，完全为AI设计。方便AI自动编写机器人用例，每个机器人用例都是一个全新沙箱环境，相互之间不受影响。配置等等无需重新加载，比每次启动进程速度快的多
+2. 全新为AI实现的新的Fiber机制，Fiber有父子关系，Fiber由谁创建则由谁施放，安全可靠
+3. 全新的日志设计，消息流更加清晰
+4. 为AI设计的各种分析器，严格限制AI，让AI写出的代码可读可改
+5. 视频演示：  
+[游戏逻辑开发-Claude Code With ET1](https://www.bilibili.com/video/BV1ykujzcEvp/?vd_source=e55f8234b8f8039504cbf131082c93dd#reply268665744592)  
+[游戏逻辑开发-Claude Code With ET2](https://www.bilibili.com/video/BV15juAzrEeg?spm_id_from=333.788.recommend_more_video.0&vd_source=e55f8234b8f8039504cbf131082c93dd)  
+[新的Fiber设计](https://www.bilibili.com/video/BV1KntGzvEho/?vd_source=e55f8234b8f8039504cbf131082c93dd#reply271421069312)
+
+# ET类魔兽世界预制游戏与课程上架，已经录完56集
+WOW056-New Fiber.mp4  
+WOW055-Claude Code With ET2.mp4  
+WOW054-Claude Code With ET1.mp4  
+WOW053-ET cursor使用入门.mp4  
+WOW052-行为树编辑器-拖动节点.mp4  
+WOW051-行为树编辑器复制粘贴改变.mp4  
 WOW050-行为树编辑器删除折叠.mp4    
 WOW049-行为树自动布局.mp4    
 WOW048-行为树编辑器创建节点.mp4    
@@ -73,8 +87,12 @@ WOW001-人物进入场景.mp4
 # __讨论QQ群 : 474643097__ （已满） 新手请加新手群:688514974 
 
 ---
-# 公司黑名单：  
-## 成都三猩元宇宙公司，拖欠员工工资，拖欠本人咨询费用  
+# 三猩公司拖欠我的咨询费用的问题，最近得到了解决。具体原因如下：
+1. 三猩公司老板有多家公司，人不在三猩公司，而是在异地，老板托一个陈姓主管全权管理三猩公司。
+2. 老板每个月都会转费用给陈姓主管做公司房租，员工工资等等。
+3. 找我做咨询也是该陈姓主管，一直是他跟我联系，咨询费用也是陈姓主管转给我的。
+4. 后来陈姓主管挪用了三猩公司的正常经营费用（个人猜测可能是网赌），不仅没交三猩公司房租，也没发员工工资，也拖欠了我的咨询费。
+5. 最近半年老板发现此事。一直在追责陈姓主管，后面也主动联系到我，转给了我咨询费用。
 ---
 
 ---
